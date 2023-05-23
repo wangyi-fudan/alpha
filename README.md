@@ -22,18 +22,8 @@ This implies that $\alpha$ approximates the root of the following equation:
 
 $ln(\frac{1-\alpha}{\alpha}) = 3 Basel(\frac{1-\alpha}{\alpha})$
 
+$4.9129195507541 \approx 4.9128300715298
+
+$error=1.82132107459588e-05$
+
 **Time of the discovery: Yi Wang, 2023-05-22, ShangHai, China.**
-
---------
-
-More accuate calculation with the last fractional term:
-
-alpha2pi.cpp
-
-pi1=3.13461945082784
-
-pi2=3.13461948956455
-
-ln(pi1/pi2)=-1.23577073933832e-08
-
-**Time of the discovery: Yi Wang, 2023-05-23, ShangHai, China.**
