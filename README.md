@@ -1,4 +1,4 @@
-# $\alpha$
+# $ln(\frac{1-\alpha}{\alpha}) = 3 Basel(\frac{1-\alpha}{\alpha})$
 
 $\alpha \approx \frac{1}{137.03599920611}$  [Léo et al. 2020]
 
