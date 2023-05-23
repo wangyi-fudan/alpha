@@ -23,3 +23,7 @@ This implies that $\alpha$ approximates the root of the following equation:
 $ln(\frac{1-\alpha}{\alpha}) = 3 Basel(\frac{1-\alpha}{\alpha})$
 
 Time of the discovery: Yi Wang, 2023-05-22, ShangHai, China.
+
+More accuate (relative error=1.24076883332029e-08) calculation with the last fractional term:
+
+alpha2pi.cpp
