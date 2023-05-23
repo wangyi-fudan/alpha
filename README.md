@@ -20,4 +20,4 @@ $1.637608092287405 < 1.637639850251368 < 1.63766137163100$
 
 This implies that r approximates the root of the following equation: 
 
-$ln(r) = 3 Basel(r)$
+$ln(\frac{1-\alpha}{\alpha}) = 3 Basel(\frac{1-\alpha}{\alpha})$
