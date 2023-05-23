@@ -29,6 +29,7 @@ $ln(\frac{1-\alpha}{\alpha}) = 3 Basel(\frac{1-\alpha}{\alpha})$
 More accuate calculation with the last fractional term:
 
 alpha2pi.cpp
+
 pi1=3.13461945082784
 
 pi2=3.13461948956455
