@@ -24,6 +24,6 @@ $ln(\frac{1-\alpha}{\alpha}) = 3 Basel(\frac{1-\alpha}{\alpha})$
 
 $4.9129195507541 \approx 4.9128300715298$
 
-$error=1.82132107459588e-05$
+$relative_error=1.82132107459588e-05$
 
 **Time of the discovery: Yi Wang, 2023-05-22, ShangHai, China.**
