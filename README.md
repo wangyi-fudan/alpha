@@ -24,6 +24,8 @@ $ln(\frac{1-\alpha}{\alpha}) = 3 Basel(\frac{1-\alpha}{\alpha})$
 
 **Time of the discovery: Yi Wang, 2023-05-22, ShangHai, China.**
 
+--------
+
 More accuate calculation with the last fractional term:
 
 alpha2pi.cpp
