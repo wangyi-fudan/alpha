@@ -27,3 +27,9 @@ Time of the discovery: Yi Wang, 2023-05-22, ShangHai, China.
 More accuate (relative error=1.24076883332029e-08) calculation with the last fractional term:
 
 alpha2pi.cpp
+
+pi1=3.13461945082784
+
+pi2=3.13461948972122
+
+ln(pi1/pi2)=-1.24076883332029e-08
